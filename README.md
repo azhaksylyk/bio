@@ -77,9 +77,10 @@ I build intelligent systems that bridge **human–machine communication**, **sig
 
 ---
 
-### 🌍 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil%20Zhaksylyk-blue)](https://www.linkedin.com/in/azhaksylyk/)
-[![Email](https://img.shields.io/badge/Email-adil.zhaksylyk%40gmail.com-red)](mailto:adil.zhaksylyk@gmail.com)
-[![CV](https://img.shields.io/badge/CV-PDF-green)](https://github.com/azhaksylyk/bio/blob/main/Adil%20Zhaksylyk%20CV%20-%20v5.pdf)
+### 🌍 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil%20Zhaksylyk-blue?logo=linkedin)](https://www.linkedin.com/in/azhaksylyk/)
+[![Email](https://img.shields.io/badge/Email-adil.zhaksylyk%40gmail.com-red?logo=gmail)](mailto:adil.zhaksylyk@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Adil%20Zhaksylyk%20PDF-green?logo=adobeacrobatreader)](https://github.com/azhaksylyk/bio/blob/main/Adil%20Zhaksylyk%20CV%20-%20v5.pdf)
 
 > _“I love designing systems that make machines understand — and respond like humans.”_
