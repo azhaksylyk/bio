@@ -8,10 +8,10 @@ I build intelligent systems that bridge **human–machine communication**, **sig
 ---
 
 ### 🚀 About Me
-- 🎓 M.Sc. in Science, B.Sc. in Computer Science  
+- 🎓 M.Sc. in Automation and Control, B.Sc. in Robotics and Mechatronics 
 - 🏢 Former **Research Assistant** at *Hochschule Heilbronn* — worked on **IMAB (Intelligent Manufacturing Assistant Bot)**  
 - 🧩 4+ years of experience in **Machine Learning**, **Signal Processing**, and **Embedded AI Systems**  
-- 🎤 Focus: *Speech Recognition · Speaker Identification · Industrial Noise Cancellation · Edge Deployment*  
+- 🎤 Focus: *Speech Recognition · Speaker Identification · Industrial Automation · Edge Deployment*  
 - 🌍 Based in Kazakhstan — open to global collaborations and AI research roles  
 
 ---
